@@ -1,0 +1,4 @@
+name: DiscordOnline
+main: net.plugin.CoreServerOnline
+version: 0.1.15
+api-version: 1.18
